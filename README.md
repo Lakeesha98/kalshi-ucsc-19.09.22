@@ -37,3 +37,4 @@ Your app UI part(mobile/web) actually needs to run, our team will check each and
 We will configure our environment and do the evaluations.
 
 # Kalshi-UCSC-19-09-22
+# Kalshi-UCSC-19-09-22
